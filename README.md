@@ -1,5 +1,4 @@
 # Kaggle_Severstal-Steel-Defect-Detection
 
-This was a practice to build a DL model for real-world data during one of my college's courses.  
-
-The journey included navigating through the large image dataset, optimizing hyperparameters, and implementing different models, enriched my understanding of deep learning in addressing the complexities of data challenges.
+- This is one of my assignments in the Quantitative Business Science course in college, where I built CNN models to make classifications on image data. The goal is to localize and classify surface defects on a steel sheet.
+  See the Kaggle competition here:https://www.kaggle.com/competitions/severstal-steel-defect-detection/overview
