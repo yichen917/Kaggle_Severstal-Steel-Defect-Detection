@@ -1,5 +1,5 @@
 # Kaggle_Severstal-Steel-Defect-Detection
 
-This was a practice to build a DL model for real-world data during the QBS (Quantitative Business Science) course in college. 
+This was a practice to build a DL model for real-world data during one of my college's courses.  
 
-The journey included navigating through complex data structures, optimizing hyperparameters, and implementing advanced techniques, enriched my understanding of deep learning, and utilize it to tackle the complexities of data challenges.
+The journey included navigating through the large image dataset, optimizing hyperparameters, and implementing different models, enriched my understanding of deep learning in addressing the complexities of data challenges.
